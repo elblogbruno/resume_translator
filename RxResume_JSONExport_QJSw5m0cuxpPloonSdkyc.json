@@ -1,0 +1,442 @@
+{
+    "basics": {
+        "name": "Bruno Moya",
+        "email": "bruno.moya@glassear.com",
+        "phone": "+34633860821",
+        "photo": {
+            "url": "https://cdn.rxresu.me/uploads/17835/18996/1651345235945.png",
+            "filters": {
+                "size": 270,
+                "shape": "rounded-square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Soy Bruno Moya, un emprendedor barcelonés, nombrado el \"emprendedor tecnológico de 19 años más digital que la mayoría de los CTO, CMO y CEO \" , fundador y creador de Glassear.   \n\nDurante los últimos 8 años, he estado trabajando en el casco que democratiza la realidad aumentada al permitir que los usuarios se conecten sin esfuerzo y experimenten experiencias digitales de próxima generación. \n\nHe ganado muchos premios y he dado muchas charlas en diferentes eventos (hasta en la india!) explicando cómo comencé en el mundo del emprendimiento y logré llevar mi producto #glassear al mercado y competir con #Microsoft y #Google.\n\nMucho más contenido y información en mi web brunomoya.com\n\n",
+        "website": "brunomoya.com",
+        "headline": "Speaker y Experto en AR/VR/MR, creador de Glassear, el casco que democratiza la REALIDAD MIXTA.",
+        "location": {
+            "city": "Barcelona",
+            "region": "",
+            "address": "C/ Prat de la Riba 5, Santpedor",
+            "country": "España",
+            "postalCode": "08251"
+        },
+        "profiles": [],
+        "birthdate": "2001-08-21T18:07:14.000Z"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "0e7df3ed-d908-47ec-b3ba-2fecba73685b",
+                    "url": "glassear.com",
+                    "date": {
+                        "end": "",
+                        "start": "2014-05-31T22:00:00.000Z"
+                    },
+                    "name": "Glassear",
+                    "summary": "- Aprendo el proceso de diseño y desarrollo de productos.\n- Aprendo a enseñar y participar en eventos como Speaker.\n- Desarrollo mis habilidades de trabajo en equipo.\n- Amplio mi conocimiento del mercado de las tecnologías AR VR y Realidad Mixta.",
+                    "position": "Orador - Speaker - AR/VR/MR - Realidad mixta - Glassear"
+                },
+                {
+                    "id": "1e5e25f5-d31f-42f5-b377-5965ffaee2c2",
+                    "date": {
+                        "end": "2019-06-01T00:00:00.000Z",
+                        "start": "2018-12-01T00:00:00.000Z"
+                    },
+                    "name": "ManoMotion",
+                    "summary": "Desarrollando apps de Realidad Mixta para mi casco Glassear utilizando los algoritmos de Manomotion junto al SDK de Glassear. En el proceso, aprendí y mejore en el diseño de interfaces destinadas a este ámbito. También ayude en el desarrollo de su algoritmo, gracias a mi conocimiento anterior de OpenCV y Redes Neuronales.",
+                    "position": "Internship"
+                },
+                {
+                    "id": "7f0b51b1-da9a-4f3b-82f6-802def1bc010",
+                    "date": {
+                        "end": "2018-07-01T00:00:00.000Z",
+                        "start": "2018-05-01T00:00:00.000Z"
+                    },
+                    "name": "Computer Vision Center",
+                    "summary": "Desarrollé contenido de Inteligencia Artificial con OpenCV y redes neuronales de object y pose tracking así como face tracking. Cito,  'A veces nos olvidabamos de la edad que teniamos al asignarle alguna tarea'.\n",
+                    "position": "Internship"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "72178b3e-331a-4153-bd3e-d9b0f4d94fc0",
+                    "url": "https://www.linkedin.com/posts/glassear-bruno_mamut-activity-6652701039374008321-5aP-",
+                    "date": "2020-01-01T12:24:42.000Z",
+                    "title": "Hackaton Winner Most Creative Project",
+                    "awarder": "NTT DATA (Everis)",
+                    "summary": "Mi faceta como estudiante de ingeniería informática me ha abierto el espíritu para desarrollar proyectos más científicos, habiendo ganado el premio al proyecto más creativo con mi App 'Whatshate', patrocinada por Everis, que lucha de forma directa y sencilla contra el ciberacoso."
+                },
+                {
+                    "id": "83400a69-bb42-462f-a928-2941787b2832",
+                    "url": "https://www.facebook.com/watch/?v=307219950680220",
+                    "date": "2020-12-29",
+                    "title": "Manomojies Gamejam",
+                    "awarder": "Manomotion",
+                    "summary": "Ganador del 3er premio en el Gamejam organizado por Manomotion, basado en el tema del uso del Hand Tracking y la realidad aumentada mezclada con emojies.\n"
+                },
+                {
+                    "id": "c7fc5452-3c11-45e2-a913-415e7c79f288",
+                    "url": "https://www.linkedin.com/posts/avraamgeorgiadis_doctor-strange-ar-filter-activity-6802973488438231040-V0fP?utm_source=share&utm_medium=member_desktop",
+                    "date": "2021-05-25",
+                    "title": "Manomotion Superheroes Gamejam",
+                    "awarder": "Manomotion",
+                    "summary": "Ganador del 3er premio en el Gamejam organizado por Manomotion, basado en el tema del uso de Hand Tracking y realidad aumentada mezclado con el tema de superhéroes junto Avraam Georgiadis "
+                },
+                {
+                    "id": "cdbd5127-ee1d-420d-9cf1-6fd006ecf816",
+                    "url": "https://galicia.makerfaire.com/resumen-edicion-2018-es/",
+                    "date": "2018-05-12",
+                    "title": "Industry 4.0",
+                    "awarder": "Maker Faire Galicia",
+                    "summary": "Ganador del 2º Premio como proyecto más interesante para el futuro de la Industria 4.0."
+                },
+                {
+                    "id": "95da610b-fa44-41fd-84c7-4b1a14faa279",
+                    "url": "https://barcelona.makerfaire.com/es/inicio-2/",
+                    "date": "2018-06-16",
+                    "title": "Maker of merit",
+                    "awarder": "Maker Faire Barcelona",
+                    "summary": "Más de 4 premios otorgados por la organización al Maker más interesante del evento, así como uno muy especial firmado por David Cuartelles, cofundador de Arduino."
+                }
+            ],
+            "columns": 3,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8995fd78-31cc-41b3-83d2-b56647b1a688",
+                    "name": "Realidad Extendida (AR/VR/MR)",
+                    "level": "Experto",
+                    "keywords": [],
+                    "levelNum": 10
+                },
+                {
+                    "id": "28e0c189-24cf-48cf-be84-cd24878197f0",
+                    "name": "Unity 3D",
+                    "level": "Experto en nivel AR/VR/MR",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "b1675288-8646-458b-ba9f-263c4267f97b",
+                    "name": "Computer Vision",
+                    "level": "Medio",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "70f5fdce-b6e5-496f-a477-03f11450452e",
+                    "name": "Conferencias en público",
+                    "level": "más de 15 charlas a mis espaldas y contando.",
+                    "keywords": [],
+                    "levelNum": 6
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "110e4440-580f-428b-81c4-5a2e47c0a033",
+                    "url": "https://github.com/elblogbruno/NotionAI-MyMind",
+                    "date": {
+                        "end": "",
+                        "start": "2020-08-11T18:21:06.000Z"
+                    },
+                    "name": "Brainmate (antes NotionAI MyMind)",
+                    "summary": "Proyecto que mezcla Inteligencia Artificial + Productividad y la increíble startup Notion, el cual presenta una cifra de más de 1300 usuarios activos!",
+                    "keywords": [],
+                    "description": "Your second brain powered by AI."
+                },
+                {
+                    "id": "0137799b-57c8-43d5-a5b6-e354513ee844",
+                    "url": "https://play.google.com/store/apps/details?id=com.manomotion.arfoundationssdkceexample",
+                    "date": {
+                        "end": "2020-12-08T23:00:00.000Z",
+                        "start": "2020-12-09T19:19:02.000Z"
+                    },
+                    "name": "Manomojies",
+                    "summary": "Esta aplicación te permite colocar emojis en tu realidad utilizando tu mano, ¡incluso buscar emojis listos para usar! ¡Llena tu mundo de emojis ahora mismo y comienza a construir tu propia historia!\n",
+                    "keywords": [],
+                    "description": "Realidad aumentada + emojis"
+                },
+                {
+                    "id": "7683df1e-169a-4561-8229-5cfcbee26167",
+                    "url": "http://www.tripdepart.com",
+                    "date": {
+                        "end": "",
+                        "start": "2017-08-01T00:00:00.000Z"
+                    },
+                    "name": "TripDepart | The travelling social network!",
+                    "summary": " Una plataforma social perfecta para descubrir lugares cercanos y amigos de viaje.",
+                    "keywords": [],
+                    "description": "TripDepart es una aplicación de viaje social que te conecta instantáneamente con los viajeros cerca de usted."
+                },
+                {
+                    "id": "2bfbb8b1-137e-4037-b580-c6891dfa9869",
+                    "url": "https://play.google.com/store/apps/details?id=com.glassear.poemMask",
+                    "date": {
+                        "end": "",
+                        "start": "2019-04-01T00:00:00.000Z"
+                    },
+                    "name": "FaceFilter",
+                    "summary": "FaceFilter  utiliza sistemas de reconocimiento facial para convertirte en tu personaje favorito, como los filtros de Instagram, simplemente busca su nombre en el buscador de PoemMask. ",
+                    "keywords": [],
+                    "description": "Filtros de realidad aumentada + api + visión por ordenador"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "9f8f029f-40c0-4962-87b3-355965ae3002",
+                    "date": {
+                        "end": "2023-04-29",
+                        "start": "2023-01-01"
+                    },
+                    "degree": "Génie des technologies de l'information",
+                    "courses": [
+                        "GTI745-01 Interfaces utilisateurs avancées",
+                        "ELE649-01 Protocoles et réseaux locaux",
+                        "LOG680-01 Introduction à l'approche DevOps",
+                        "MGL843-01 Sujets avancés en conception logicielle"
+                    ],
+                    "summary": "Ultimo semestre de la carrera en Montreal, Quebec, Canada por más de 5 meses.",
+                    "institution": "École de technologie supérieure ÉTS",
+                    "url": "https://www.etsmtl.ca/etudes/premier-cycle/baccalaureat-genie-des-ti"
+                },
+                {
+                    "id": "846ced98-07c7-48b5-a662-f11667562e89",
+                    "date": {
+                        "end": "2023-12-31",
+                        "start": "2019-01-01T00:00:00.000Z"
+                    },
+                    "degree": "Grado en Ingeniería Informatica",
+                    "courses": [],
+                    "summary": "Formo parte del club de emprendimiento de la Universidad.",
+                    "institution": "Universitat Autònoma de Barcelona"
+                },
+                {
+                    "id": "f1d0559b-1fe5-40b5-a7d1-44835bfdbc44",
+                    "date": {
+                        "end": "2019-01-01T00:00:00.000Z",
+                        "start": "2017-01-01T00:00:00.000Z"
+                    },
+                    "degree": "Doble bachillerato francés-español (Batxibac)",
+                    "courses": [],
+                    "summary": "Tengo un B2 de Frances  gracias a ello.",
+                    "institution": "Gerbert d'Aurillac"
+                },
+                {
+                    "id": "990e5724-07bf-4051-8aa3-3bca037252da",
+                    "date": {
+                        "end": "2016-01-01T00:00:00.000Z",
+                        "start": "2004-01-01T00:00:00.000Z"
+                    },
+                    "degree": "",
+                    "institution": "Llissach"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "1b1e3fe1-72cd-487f-b1c2-899685834034",
+                    "name": "Español",
+                    "level": "Mother Tongue",
+                    "levelNum": 5
+                },
+                {
+                    "id": "d71c71ef-285d-4a04-a2e2-5ba1ddda0350",
+                    "name": "Catalan",
+                    "level": "Mother Tongue",
+                    "levelNum": 9
+                },
+                {
+                    "id": "922b45b0-8b19-41ae-bf95-42c59c6271ba",
+                    "name": "Inglés",
+                    "level": "B2 con conocimiento especifico de la informática ",
+                    "levelNum": 9
+                },
+                {
+                    "id": "3c5d8d33-bb8d-413b-95e1-d6f85cf625fc",
+                    "name": "Francés",
+                    "level": "B2 ",
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "a124a0ff-942f-4fcc-b464-b9212a99dc86",
+                    "url": "https://patient73.org/portal1/M_item-detail_GAMEJAM.asp?contentid=3954",
+                    "date": {
+                        "end": "",
+                        "start": "2022-04-21"
+                    },
+                    "summary": "Estoy colaborando con la organización sin ánimo de lucro Fecamm (Federació Catalana de malalties minoritàries), en el proceso de introducir Juegos en su Plataforma para que las personas con enfermedades Raras puedan jugar. En relación con esto, hemos organizado un GameJam de un mes en colaboración con la UAB, UPC, y distintos hospitales.\n",
+                    "position": "Technical Lead at Patient73 Games",
+                    "organization": "Fecamm - Patient73"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "0a3f1c9f-7f45-4db6-b96b-6af15ebd0709",
+                    "name": "Avraam Georgiadis",
+                    "email": "",
+                    "phone": "",
+                    "summary": "https://www.linkedin.com/posts/avraamgeorgiadis_doctor-strange-ar-filter-activity-6802973488438231040-V0fP?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                    "relationship": "Adventures Partner"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "9d806282-cb07-40f7-afcb-9ba461e6d26a",
+                    "url": "http://www.3dprintingdesign.es/revista/9/#page/12",
+                    "date": "2020-09-01T19:05:22.000Z",
+                    "name": "Glassear, la realidad mixta al alcance de todos.",
+                    "summary": "Artículo escrito para la revista virtual sobre 3D printing en una edición especial dedicada a la realidad mixta y virtual!",
+                    "publisher": "3D Printing and Design, Pressgraph"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "fb0b9bf8-d3b3-498f-9a94-0db012a57940",
+                    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6559408874229760001",
+                    "date": "2019-07-01T00:00:00.000Z",
+                    "name": "Certificate of Appreciation",
+                    "issuer": "ManoMotion"
+                },
+                {
+                    "id": "e497d070-5cf4-4c7e-8e37-ddea23d0983a",
+                    "url": "https://www.linkedin.com/posts/glassear-bruno_glassear-mamuthack-hackaton-activity-6652666609813065728-OHHP",
+                    "date": "2020-04-01T00:00:00.000Z",
+                    "name": "Hackaton Attendance Certificate",
+                    "issuer": "Mamuthack"
+                },
+                {
+                    "id": "5eee7015-b123-4584-abee-c6d4f3cad2b6",
+                    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6868827222979960832/",
+                    "date": "2021-11-01T00:00:00.000Z",
+                    "name": "Diploma Charla COECYS Guatemala",
+                    "issuer": "COECYS"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "DD/MM/YYYY"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#00bcd4",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "education",
+                    "work",
+                    "volunteer",
+                    "awards",
+                    "projects"
+                ],
+                [
+                    "interests",
+                    "languages",
+                    "skills",
+                    "publications",
+                    "certifications",
+                    "references"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "glalie",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
