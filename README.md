@@ -1,6 +1,5 @@
 # Resume Translator
-This Python software allows you to translate CVs downloaded from the website RX Resume into the language of your choice using Google Translate. The software utilizes the Google Cloud Translation API, so you'll need to set up an API key before you can use it. 
-
+This Python software allows you to translate CVs downloaded from the website RX Resume into the language of your choice using Google Translate. 
 https://rxresu.me/
 
 ## Installation
