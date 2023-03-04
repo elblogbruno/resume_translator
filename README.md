@@ -15,6 +15,8 @@ To install the software, follow these steps:
 
 To use the software, run the resume_translator.py script. Here's all the available commands:
 
+![carbon](https://user-images.githubusercontent.com/10481058/222916334-21c73088-882b-4a0f-bb4a-1af37419ef29.png)
+
 
 
 Replace <input> with the path to the CV file you want to translate, and <target> with the language code of the language you want to translate the CV into (e.g., es for Spanish, fr for French, etc.).
